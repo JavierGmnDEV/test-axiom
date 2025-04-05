@@ -53,7 +53,7 @@ export function Footer() {
               <span className="h-2 w-2 rounded-full bg-green-500"></span>
               <span className="text-green-500">Connection is stable</span>
             </div>
-            <select className="bg-transparent border-none text-xs outline-none">
+            <select name="select zone" className="bg-transparent border-none text-xs outline-none">
               <option>US-C</option>
             </select>
             <div className="flex items-center gap-2">
